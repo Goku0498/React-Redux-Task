@@ -1,0 +1,23 @@
+.card {
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.slick-slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.text-bold {
+  font-weight: bold;
+}
